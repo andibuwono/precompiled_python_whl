@@ -1,4 +1,4 @@
-# precompiled_python_whl
+# precompiled python whl
 Collections of precompiled python whl for Windows
 
 The files are unofficial (meaning: informal, unrecognized, personal, unsupported, no warranty, no liability, provided "as is") 
